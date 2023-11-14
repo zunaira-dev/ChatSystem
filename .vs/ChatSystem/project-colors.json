@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c26d074c-b594-94b3-b1d2-38d067dbf7ef": {
+      "ProjectGuid": "c26d074c-b594-94b3-b1d2-38d067dbf7ef",
+      "DisplayName": "Assembly-CSharp",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "b7c909d1-6def-6093-39e0-82af135c2912": {
+      "ProjectGuid": "b7c909d1-6def-6093-39e0-82af135c2912",
+      "DisplayName": "PhotonChat",
+      "ColorIndex": 1
+    },
+    "bafdb41c-7b60-f2b0-a0bc-93bd0039926d": {
+      "ProjectGuid": "bafdb41c-7b60-f2b0-a0bc-93bd0039926d",
+      "DisplayName": "PhotonUnityNetworking",
+      "ColorIndex": 2
+    },
+    "1d4c9b0c-5027-2ebe-22ca-6a0c28c8f251": {
+      "ProjectGuid": "1d4c9b0c-5027-2ebe-22ca-6a0c28c8f251",
+      "DisplayName": "UnityEngine.TestRunner",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
